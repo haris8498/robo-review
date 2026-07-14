@@ -4,6 +4,7 @@
  */
 
 // Prevent direct access
+// Temporary comment to trigger CodeRabbit review.
 if (!defined('ABSPATH')) {
     exit;
 }
